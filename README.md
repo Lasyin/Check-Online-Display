@@ -2,7 +2,7 @@
 Check-Online-Display displays the data gathered by Check-Online in a NodeJS website.
 
 **IMPORTANT**
-* This script displays the results of [Check-Online which can be found here.] (https://github.com/Lasyin/Check-Online) Therefore, it is required
+* This script displays the results of [Check-Online which can be found here.](https://github.com/Lasyin/Check-Online) Therefore, it is required
 
 
 ## Getting Started
